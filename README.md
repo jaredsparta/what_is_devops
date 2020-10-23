@@ -34,6 +34,8 @@
 
 ![How these three relate to each other](images/as.png)
 
+![Another representation](images/saas.png)
+
 **Hybrid and public clouds**
 - Public clouds are the most common, these are resources that are owned, maintained and operated by third-party providers. These are delivered through the internet.
 - Hybrid cloud computing is a type of cloud computing that combines both real-life infrastructure (a private cloud) with a public cloud.
