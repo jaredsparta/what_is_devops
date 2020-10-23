@@ -15,15 +15,33 @@
     - Kubernetes
     - Ansible
 
+**Cloud computing**
+- The delivery of computing services (servers, databases, infrastructure etc.) over the internet.
+- More cost-efficient as most of the time you only pay for what you use.
+- Far more flexible as you can access services as long as you have internet access.
+
 **SAAS, PAAS, IAAS**
 - SAAS = "software as a service"
     - It's a cloud-based service that allows you to use apps using only an internet browser e.g. email
 - PAAS = "platform as a service"
-    - This is a complete development and deployment environment all on the cloud.
+    - This is a complete development and deployment environment all on the cloud e.g. Windows Azure
 - IAAS = "infrastructure as a service"
-    - This is an instant computing infrastrucure provisioned and managed over the internet.
+    - This is an instant computing infrastrucure provisioned and managed over the internet e.g. AWS
 
 ![How these three relate to each other](images/iaas.png)
+
+**Hybrid and public clouds**
+- Public clouds are the most common, these are resources that are owned, maintained and operated by third-party providers. These are delivered through the internet.
+- Hybrid cloud computing is a type of cloud computing that combines both real-life infrastructure (a private cloud) with a public cloud.
+    - Can be used to meet regulatory and data sovereignty requirements.
+
+**When to use SAAS, PAAS, and IAAS**
+- Use SAAS when you need quick and easy deployment. Usually used for short-term projects and ones that aren't needed too often.
+- Use PAAS to streamline workflows whenever multiple developers are working on the same development project.
+- Use IAAS if you are a rapidly-growing company. This allows you to take advantage of the flexbility and ease of scalability of IAAS while also having the option to change out specific hardware and software needs as required.
+
+
+
 
 
 
@@ -31,3 +49,5 @@
 **Used:**
 - [Why DevOps](https://www.appdynamics.com/solutions/devops/why-devops-is-important#:~:text=DevOps%20is%20important%20because%20it's,easier%20maintenance%20of%20existing%20deployments.)
 - [SAAS, PAAS and IAAS](https://azure.microsoft.com/en-gb/overview/what-is-iaas/)
+- [Cloud + Private and Hybrid cloud](https://azure.microsoft.com/en-gb/overview/what-are-private-public-hybrid-clouds/#deployment-options)
+- [Why SAAS, PAAS, and IAAS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
